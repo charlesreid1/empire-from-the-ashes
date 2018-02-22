@@ -1,3 +1,3 @@
 # David Weber's Mutineers' Moon
 
-via [https://web.archive.org/web/20081228185003/http://www.baen.com/library/0671720856/0671720856.htm](https://web.archive.org/web/20081228185003/http://www.baen.com/library/0671720856/0671720856.htm)
+via [http://baencd.freedoors.org/Books/Empire From the Ashes/Empire_From_the_Ashes.htm](http://baencd.freedoors.org/Books/Empire From the Ashes/Empire_From_the_Ashes.htm)
