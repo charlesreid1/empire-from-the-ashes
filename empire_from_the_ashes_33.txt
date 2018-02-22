@@ -1,0 +1,132 @@
+The holo of what had once been a pleasant, blue-white world called Keerah hung in Command One's visual display like a leprous, ocher curse. Once-green continents were wind and water-carved ruins, grooved like a harridan's face and pocked with occasional sprawls where the works of Man had been founded upon solid bedrock and so still stood, sentinels to a vanished population. 
+Colin stared at it, heartsick as even Defram had not left him. He'd hoped so hard. The missiles which had greeted them had seemed to confirm that hope, and so he had almost welcomed them even as they sought to kill him. But dead Keerah mocked him. 
+He turned away, shifting his attention to the orbiting ring of orbital forts. Only seven remained even partially operational, and the nearest loomed in Dahak's display, gleaming dully in the funeral watch light of Kano. The clumsy-looking base was over eight kilometers in diameter, and a shiver ran down Colin's spine as he looked at it. 
+Even now, its targeting systems were locked on Dahak, its age-crippled computers sending firing signals to its weapons. He shuddered as he pictured the ancient launchers swinging through their firing sequences again and again, dry-firing because their magazines were empty. It was bad enough to know the long-abandoned war machine was trying to kill him; it was worse to wonder how many other vessels must have died under its fire to exhaust its ammunition. 
+And if Dahak and Hector were right, most of those vessels had been killed not for attacking Keerah, but for trying to escape it. 
+"Probe One is reporting, Captain." Dahak's mellow voice wrenched Colin away from his frightening, empty thoughts to more immediate matters. 
+"Very well. What's their status?" 
+"External scans completed, sir. Fleet Captain (Engineering) Chernikov requests permission to board." 
+Colin turned to the holo image beside his console. "Recommendations?" 
+"My first recommendation is to get Vlad out of there," Cohanna said flatly. "I'd rather not risk our Chief Engineer on the miserable excuse for an opinion I can give you." 
+"I tend to agree, but I made the mistake of asking for volunteers." 
+"In that case," Cohanna leaned back behind her desk in sickbay, a thousand kilometers from Command One, and rubbed her forehead, "we might as well let them board." 
+"Are you sure about that?" 
+"Of course I'm not!" she snapped, and Colin's hand rose in quick apology. 
+"Sorry, 'Hanna. What I really wanted was a run-down on your reasoning." 
+"It hasn't changed." Her almost normal tone was an unstated acceptance of his apology. "The other bases are as dead as Keerah, but there are at least two live hydroponics farms aboard that hulk—how I don't know, after all this time—and there may be more; we can't tell from exterior bio-scans even at this range. But that thing's entire atmosphere must've circulated through both of them a couple of million times by now and the plants are still alive. It's possible they represent a mutant strain that happened to be immune to whatever killed everything on Keerah, but I doubt it. Whatever the agent was, it doesn't seem to have missed anything down there, so I think it's unlikely it ever contaminated the battle station." She shrugged. 
+"I know that's a mouthful of qualifiers, but it's all I can tell you." 
+"But there's no other sign of life," Colin said quietly. 
+"None." Cohanna's holographic face was grim. "There couldn't be, unless they were in stasis. Genetic drift would've seen to that long ago on something as small as that." 
+"All right," Colin said after a moment. "Thank you." He looked down at his hands an instant longer, then nodded to himself. 
+"Dahak, give me a direct link to Vlad." 
+"Link open, Captain." 
+"Vlad?" 
+"Yes, Captain?" There was no holo image—Chernikov's bare-bones utility boat had strictly limited com facilities—but his calm voice was right beside Colin's ear. 
+"I'm going to let you take a closer look, Vlad, but watch your ass. One man goes in first—and not you, Mister. Full bio-protection and total decon before he comes back aboard, too." 
+"With all respect, Captain, I think—" 
+"I know what you think," Colin said harshly. "The answer is no." 
+"Very well." Chernikov sounded resigned, and Colin sympathized. He would vastly have preferred to take the risk himself, but he was Dahak's captain. He couldn't gamble with the chain of command . . . and neither could Vlad. 
+Vlad Chernikov looked at the engineer he had selected for the task. Jehru Chandra had come many light-years to risk his life, but he looked eager as he double-checked the seals on his suit. Not cheerful or unafraid, but eager. 
+"Be cautious in there, Jehru." 
+"Yes, sir." 
+"Keep your suit scanners open. We will relay to Dahak." 
+"I understand, sir." Chernikov grinned wryly at Chandra's manifestly patient reply. Did he really sound that nervous? 
+"On your way, then," he said, and the engineer stepped into the airlock. 
+As per Cohanna's insistence, there was no contact between Chernikov's workboat and the battle station, but Chernikov studied the looming hull yet again as Chandra floated across the kilometer-wide gap on his suit propulsors. This ancient structure was thousands of years younger than Dahak, but the warship had been hidden under eighty kilometers of solid rock for most of its vast lifespan. The battle station had not. The once bright battle steel was dulled by the film of dust which had collected on its age-sick surface and pitted by micro-meteor impacts, and its condition made Chernikov chillingly aware of its age as Dahak's shining perfection never had. 
+Chandra touched down neatly beside a small personnel lock, and his implants probed at the controls. 
+"Hmmmmm. . . ." The tension in his voice was smoothed by concentration. "Dahak was right, Commander. I've got live computers here, but damned if I recognize the machine language. Whups! Wait a minute, I've got something—" 
+His voice broke off for an agonizing moment, then came back with a most unexpected sound: a chuckle. 
+"I'll be damned, sir. The thing recognized my effort to access and brought in some kind of translating software. The hatch's opening now." 
+He stepped through it and it closed once more. 
+"Pressure in the lock," he reported, his fold-space com working as well through battle steel as through vacuum. "On the low side—'bout point-six-nine atmospheres. My sensors read breathable." 
+"Forget it right now, Jehru." 
+"Never even considered it, sir. Honest. Okay, inner lock opening now." There was a brief pause. "I'm in. Inner hatch closed. The main lighting's out, but about half the emergency lights're up." 
+"Is the main net live, or just the lock computers?" 
+"Looks like the auxiliary net's up. Just a sec. Yes, sir. Power level's weak, though. Can't find the main net, yet." 
+"Understood. Give me a reading on the auxiliary. Then I want you to head up-ship. Keep an eye out for . . ." 
+Colin rested in his couch, eyes closed, concentrating on his neural feed as Chandra penetrated the half-dead hulk, gaining in confidence with every meter. It showed even in the technicalities of his conversation with Vlad. 
+Colin only hoped they could ever dare to let him come home again. 
+* * *
+" . . . and that's about the size of it," Cohanna said, deactivating her personal memo computer. "We hit Chandra's suit with every decon system we had. As near as Dahak and I can tell, it was a hundred percent sterile before we let him unsuit, but we've got him in total isolation. I think he's clean, but I'm not letting him out of there until I'm certain." 
+"Agreed. Dahak? Anything to add?" 
+"I am still conversing with Omega Three's core computers, Captain. More precisely, I am attempting to converse with them. We do not speak the same language, and their data transmission speed is appreciably higher than my own. Unfortunately, they also appear to be quite stupid." Colin hid a smile at the peeved note in Dahak's voice. Among the human qualities the vast computer had internalized was one he no doubt wished he could have avoided: impatience. 
+"How stupid?" he asked after a moment. 
+"Extremely so. In fairness, they were never intended for even rudimentary self-awareness, and their age is also a factor. Omega Three's self-repair capability was never up to Fleet standards, and it has suffered progressive failure, largely, I suspect, through lack of spares. Approximately forty percent of Omega Three's data net is inoperable. The main computers remain more nearly functional than the auxiliary systems, but there are failures in the core programming itself. In human terms, they are senile." 
+"I see. Are you getting anything at all?" 
+"Affirmative, sir. In fact, I am now prepared to provide a hypothetical reconstruction of events leading to Omega Three's emplacement." 
+"You are?" Colin sat straighter, and others at the table did the same. 
+"Affirmative. Be advised, however, that much of it is speculative. There are serious gaps in the available data." 
+"Understood. Let's hear it." 
+"Acknowledged. In essence, sir, Fleet Captain (Biosciences) Cohanna was correct in her original hypothesis at Defram. The destruction of all life on the planets we have so far encountered was due to a bio-weapon." 
+"What kind of bio-weapon?" Cohanna demanded, leaning forward as if to will the answer out of the computer. 
+"Unknown at this time. It was the belief of the system governor, however, that it was of Imperial origin." 
+"Sweet Jesu," Jiltanith breathed. "In so much at least wert thou correct, my Hector. 'Twas no enemy wreaked their destruction; 'twas themselves." 
+"That is essentially correct," Dahak said. "As I have stated, the data are fragmentary, but I have recovered portions of memoranda from the governor. I hope to recover more, but those I have already perused point in that direction. She did not know how the weapon was originally released, but apparently there had been rumors of such a weapon for some time." 
+"The fools," Cohanna whispered. "Oh, the fools! Why would they build something like this? It violates every medical ethic the Imperium ever had!" 
+"I fear my data sample is too small to answer that, yet I have discovered a most interesting point. It was not the Fourth Imperium which devised this weapon but an entity called the Fourth Empire." 
+For just a moment, Colin failed to grasp the significance. Dahak had used Imperial Universal, and in Universal, the differentiation was only slightly greater than in English. "Imperium" was umsuvah, with the emphasis on the last syllable; "Empire" was umsuvaht, with the emphasis upon the second. 
+"What?" Cohanna blinked in consternation. 
+"Precisely. I have not yet established the full significance of the altered terminology, yet it suggests many possibilities. In particular, the Imperial Senate appears to have been superseded in authority by an emperor— specifically, by Emperor Herdan XXIV as of Year Thirteen-One-Seven-Five." 
+"Herdan the Twenty-Fourth?" Colin repeated. 
+"The title would seem significant," Dahak agreed, "suggesting as it does an extremely long period of personal rule. In addition, the date of his accession appears to confirm our dating of the Defram disaster." 
+"Agreed," Colin said. "But you don't have any more data?" 
+"Not of a political or societal nature, Captain. It may be that Omega Three will disgorge additional information, assuming I can locate the proper portion of its data core and that the relevant entries have not decayed beyond recovery. I would not place the probability as very high. Omega Three and its companions were constructed in great haste by local authorities, not by Battle Fleet. Beyond the programming essential for their design function, their data bases appear to be singularly uninformed." 
+Despite his shock, Colin grinned at the computer's sour tone. 
+"All right," he said after a moment. "What can you tell us about the effects of this bio-weapon and the reason the fortifications were built?" 
+"The data are not rich, Captain, but they do contain the essentials. The bio-weapon appears to have been designed to mount a broad-spectrum attack upon a wide range of life forms. If the rumors recorded by Governor Yirthana are correct, it was, in fact, intended to destroy any life form. In mammals, it functioned as a neuro-toxin, rendering the chemical compounds of the nervous system inert so that the organism died." 
+"But that wouldn't kill trees and grasses," Cohanna objected. 
+"That is true, Commander. Unfortunately, the designers of this weapon appear to have been extremely ingenious. Obviously we do not have a specimen of the weapon itself, but I have retrieved very limited data from Governor Yirthana's own bio-staff. It would appear that the designers had hit upon a simple observation: all known forms of life depend upon chemical reactions. Those reactions may vary from life form to life form, but their presence is a constant. This weapon was designed to invade and neutralize the critical chemical functions of any host." 
+"Impossible," Cohanna said flatly, then flushed. 
+"By the standards of my own data base, you are correct, ma'am. Nonetheless, Keerah is devoid of life. Empirical evidence thus suggests that it was, indeed, possible to the Fourth Empire." 
+"Agreed," the Biosciences head muttered. 
+"Governor Yirthana's bio-staff hypothesized that the weapon had been designed to modify itself at a very high rate of speed, attacking the chemical structures of its victims in turn until a lethal combination was reached. An elegant theoretical solution, although, I suspect, actually producing the weapon would be far from simple." 
+"Simple! I'm still having trouble believing it was possible!" 
+"As for Omega Three and its companions," Dahak continued, "they were intended to enforce a strict quarantine of Keerah. Governor Yirthana obviously was aware of the contamination of her planet and took steps to prevent its spread. There is also a reference I do not yet fully understand to something called a mat-trans system, which she ordered disabled." 
+" 'Mat-trans'?" Colin asked. 
+"Yes, sir. As I say, I do not presently fully understand the reference, but it would appear that this mat-trans was a device for the movement of personnel over interstellar distances without recourse to starships." 
+"What?!" Colin jerked bolt upright in his chair. 
+"Current information suggests a system limited to loads of only a few tons but capable of transmitting them hundreds—possibly even several thousands—of light-years almost instantaneously, Captain. Apparently this system had become the preferred mode for personal travel. The energy cost appears to have been high, however, which presumably explains the low upper mass limit. Starships remained in use for bulk cargoes, and the Fleet and certain government agencies retained courier vessels for transportation of highly-classified data." 
+"Jesus!" Colin muttered. Then his eyes narrowed. "Why didn't you mention that before?" 
+"You did not ask, Captain. Nor was I aware of it. Please recall that I am continuing to query Omega Three's memory even as we speak." 
+"All right, all right. But matter transmission? Teleportation?" Colin looked at Chernikov. "Is that possible?" 
+"As Dahak would say, empirical data suggests it is, but if you are asking how, I have no idea. Dahak's data base contains some journal articles about focused hyper fields linked with fold-space technology, but the research had achieved nothing as of the mutiny. Beyond that—?" He shrugged again. 
+"Maker!" Cohanna's soft voice drew all eyes back to her. She was deathly pale. "If they could—" She broke off, staring down at her hands and thinking furiously as she conferred with Dahak through her neural feed. Her expression changed slowly to one of utter horror, and when her attention returned to her fellows, her eyes glistened with sorrow. 
+"That's it." Her voice was dull. "That's how they did it to themselves." 
+"Explain," Colin said gently. 
+"I wondered . . . I wondered how it could go this far." She gave herself a little shake. "You see, Hector's right—only maniacs would deliberately dust whole planets with a weapon like this. But it wasn't that way at all." 
+They looked at her, most blankly, but a glimmer of understanding tightened Jiltanith's mouth. She nodded almost imperceptibly, and Cohanna's eyes swiveled to her face. 
+"Exactly," the biosciences officer said grimly. "The Imperium could have delivered it only via starships. They'd've been forced to transport the bug—the agent, whatever you want to call it—from system to system, intentionally. Some of that could have happened accidentally, but the Imperium was huge. By the time a significant portion of its planets were infected, the contaminating vector would have been recognized. If it wasn't a deliberate military operation, quarantine should have contained the damage. 
+"But the Empire wasn't like that. They had this damned 'mat-trans' thing. Assuming an incubation period of any length, all they needed was a single source of contamination—just one—they didn't know about. By the time they realized what was happening, it could've spread throughout the entire Imperium, and just stopping starships wouldn't do a damned thing to slow it down!" 
+Colin stared at her as her logic sank home. With something like the "mat-trans" Dahak had described, the Imperium's worlds would no longer have been weeks or months of travel apart. They would have become a tightly-integrated, inter-connecting unit. Time and distance, the greatest barriers to holding an interstellar civilization together, would no longer apply. What a triumph of technology! And what a deadly, deadly triumph it had proven. 
+"Then I was wrong," MacMahan murmured. "They could wipe themselves out." 
+"Could and did." Ninhursag's clenched fist struck the table gently, for an Imperial, and her voice was thick with anguish. "Not even on purpose—by accident. By accident, Breaker curse them!" 
+"Wait." Colin raised a hand for silence. "Assume you're right, Cohanna. Do you really think every planet would have been contaminated?" 
+"Probably not, but the vast majority certainly could have been. From the limited information Dahak and I have on this monster of theirs—and remember all our data is third or fourth-hand speculation, by way of Governor Yirthana—the incubation time was quite lengthy. Moreover, Yirthana's information indicates it was capable of surviving very long periods, possibly several centuries, in viable condition even without hosts. 
+"That suggests a strategic rather than a tactical weapon. The long incubation period was supposed to bury it and give it time to spread before it manifested itself. That it in fact did so is also suggested by the fact that Yirthana had time to build her bases before it wiped out Keerah. Its long-term lethality would mean no one dared contact any infected planet for a very, very long period. Ideal, if the object was to cripple an interstellar enemy. 
+"But look what that means. Thanks to the incubation period, there probably wasn't any way to know it was loose until people started dying. Which means the central, most heavily-visited planets would've been the first to go. 
+"People being people, the public reaction was—must have been—panic. And a panicked person's first response is to flee." Cohanna shrugged. "The result might well have been an explosion of contamination. 
+"On the other hand, they had the hypercom. Warnings could be spread at supralight speeds without using their mat-trans, and presumably some planets must have been able to go into quarantine before they were affected. That's where the 'dwell time' comes in. They couldn't know how long they had to stay quarantined. No one would dare risk contact with any other planet as long as the smallest possibility of contamination by something like this existed." 
+She paused, and Colin nodded. 
+"So they would have abandoned space," he said. 
+"I can't be certain, but it seems probable. Even if any of their planets did survive, their 'Empire' still could have self-destructed out of all too reasonable fear. Which means—" she met Colin's eyes squarely "—that in all probability, there's no Imperium for us to contact." 
+Vladimir Chernikov bent over the work bench, studying the disassembled rifle-like weapon. His enhanced eyes were set for microscopic vision, and he manipulated his exquisitely sensitive instruments with care. The back of his mind knew he was trying to lose himself and escape the numbing depression which had settled over Dahak's crew, but his fascination was genuine. The engineer in his soul rejoiced at the beauty of the work before him. Now if he could only figure out what it did. 
+There was the capacitor, and a real brute it was, despite its tininess. Eight or nine times a regular energy gun's charge. And these were rheostats. One obviously regulated the power of whatever the thing emitted, but what did the second . . . ? 
+Hmmmmm. Fascinating. There's no sign of a standard disrupter head in here. But then—aha! What do we have here? 
+He bent closer, bending sensor implants as well as vision upon it, then froze. He looked a moment longer, then raised his head and gestured to Baltan. 
+"Take a look at this," he said quietly. His assistant bent over and followed Chernikov's indicating test probe to the component in question, then pursed his lips in a silent whistle. 
+"A hyper generator," he said. "It has to be. But the size of the thing." 
+"Precisely." Chernikov wiped his spotless fingers on a handkerchief, drying their sudden clamminess. "Dahak," he said. 
+"Yes, sir?" 
+"What do you make of this?" 
+"A moment," the computer said. There was a brief period of silence, then the mellow voice spoke again. "Fleet Commander (Engineering) Baltan is correct, sir. It is a hyper generator. I have never encountered one of such small size or advanced design, but the basic function is evident. Please note, however, that the generator cavity's walls are composed of a substance unknown to me, and that they extend the full length of the barrel." 
+"Explanations?" 
+"It would appear to be a shielding housing around the generator, sir—one impervious to warp radiation. Fascinating. Such a material would have obvious applications in such devices as atmospheric hyper missile launchers." 
+"True. But am I right in assuming the muzzle end of the housing is open?" 
+"You are, sir. In essence, this appears to be a highly-advanced adaptation of the warp grenade. When activated, this weapon would project a focused field—in effect, a beam—of multi-dimensional translation which would project its target into hyper space." 
+"And leave it there," Chernikov said flatly. 
+"Of course," Dahak agreed. "A most ingenious weapon." 
+"Ingenious," Chernikov repeated with a shudder. 
+"Correct. Yet I perceive certain limitations. The hyper-suppression fields already developed to counteract warp grenades would also counteract this device's effect, at least within the area of such a field. I cannot be certain without field-testing the weapon, but I suspect that it might be fired out of or across such a suppression field. Much would depend upon the nature of the focusing force fields. But observe the small devices on both sides of the barrel. They appear to be extremely compact Ranhar generators. If so, they presumably create a tube of force to extend the generator housing and contain the hyper field, thus controlling its area of effect and also tending, quite possibly, to offset the effect of a suppression field." 
+"Maker, and I always hated warp grenades," Baltan said fervently. 
+"I, too," Chernikov said. He straightened from the bench slowly, looking at the next innocent-seeming device he'd abstracted from Omega Three once Cohanna had decided her painstaking search confirmed the original suggestion of the functional hydroponic farms. There was no trace of anything which could possibly be the bio-weapon aboard the battle station, and Chernikov had gathered up every specimen of technology he could find. He'd been looking forward to taking all of them apart. 
+Now he was almost afraid to. 

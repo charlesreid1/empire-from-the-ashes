@@ -1,0 +1,96 @@
+Colin MacIntyre was not afraid, for "afraid" was too weak a word. 
+He sat with his back to the conference room hatch as the others filed in, and he felt their own fear against his spine. He waited until all were seated, then swung his chair to meet their eyes. Their faces looked even worse than he'd expected. 
+"All right," he said at last. "We've got to decide what to do next." 
+Their steady regard threw his lie back at him, even Jiltanith's, and he wanted to scream at them. We didn't have to decide; he did, and he wished with all his soul that he had never heard of a starship named Dahak. 
+He stopped himself and drew a deep breath, closing his eyes. When he opened them again, the shadows within them had retreated just a bit. 
+"Dahak," he said quietly, "have you got anything more for us?" 
+"Negative, Captain. I have examined all known Imperial weapons and research. Nothing in my data base can account for the observational data." 
+Colin managed not to spit a curse. Observational data. What a neat, concise way to describe two once-inhabited planets with no life whatever. Not a tree, not a shrub, nothing. There were no plains of volcanic glass and lingering radioactivity, no indications of warfare—just bare, terribly-eroded earth and stone and a few pathetic clusters of buildings sagging into wind and storm-threshed ruin. Even their precarious existence said much for the durability of Imperial building materials, for Dahak estimated there had been no living hand to tend them in almost forty-five thousand years. 
+No birds, he thought. No animals. Not even an insect. Just . . . nothing. The only movement was the wind. Weather had flensed the denuded planet until its stony bones gaped through like the teeth of a skull, bared in a horrible, grinning rictus of desecration and death. 
+"Hector?" he said finally. "Do you have any ideas?" 
+"None." MacMahan's normally controlled face was even more impassive than usual, and he seemed to hunker down in his chair. 
+"Cohanna?" 
+"I can't add much, sir, but I'd have to say it was a bio-weapon of some sort. Some unimaginable sort." Cohanna shivered. "I've landed unmanned probes for spot analyses, but I don't dare send teams down." 
+Colin nodded. 
+"I can't imagine how it was done," the biosciences officer continued. "What kind of weapon could produce this? If they'd irradiated the place. . . . But there's simply nothing to go on, Captain. Nothing at all." 
+"All right." Colin inhaled deeply. "'Tanni, what can you tell us?" 
+"Scarce more than 'Hanna. We have found some three score orbital vessels and installations; all lie abandoned to the dead. As with the planets, we durst not look too close, yet our probes have scanned them well. In all our servos have attended lie naught save bones." 
+"Dahak? Any luck accessing their computers?" 
+"Very little, Captain. I have been unable to carry out detailed study of the equipment, but there are major differences between it and the technology with which I am familiar. In particular, the computer nets appear to have been connected with fold-space links, which would provide a substantial increase in speed over my own molecular circuitry, and these computers operated on a radically different principle, maintaining data flow in semi-permanent force fields rather than in physical storage units. Their power supplies failed long ago, and without continuous energization—" The computer's voice paused in the electronic equivalent of a shrug. 
+"The only instance in which partial data retrieval has been possible is artifact seventeen, the Fleet vessel Cordan," Dahak continued. "Unfortunately, the data core was of limited capacity, as the unit itself was merely a three-man sublight utility boat, and had suffered from failed fold-space units. Most data in memory are encoded in a multi-level Fleet code I have not yet been able to break, though I believe I might succeed if a larger sample could be obtained. The recoverable data consist primarily of routine operational records and astrogational material. 
+"I was able to date the catastrophe by consulting the last entry made by Cordan's captain. It contains no indication of alarm, nor, unfortunately, was she loquacious. The last entry simply records an invitation for her and her crew to dine at the planetary governor's residence on Defram-A III." 
+"Nothing more?" Ninhursag asked quietly. 
+"No, Commander. There undoubtedly was additional data, but only Cordan's command computer utilized hard storage techniques, and it is sadly decayed. I have located twelve additional auxiliary and special-function computer nets, but none contain recoverable data." 
+"Vlad?" Colin turned to his engineer. 
+"I wish I could tell you something. The fact that we dare not go over and experiment leaves us with little hard data, but the remotes indicate that their technology was substantially more advanced than Dahak's. On the other hand, we have seen little real evidence of fundamental breakthroughs—it is more like a highly sophisticated refinement of what we already have." 
+"How now, Vlad?" Jiltanith asked. "Hath not our Dahak but now said their computers are scarce like unto himself?" 
+"True enough, 'Tanni, but the differences are incremental." Vlad frowned. "What he is actually saying is that they moved much further into energy-state engineering than before. I cannot say certainly without something to take apart and put back together, but those force field memories probably manifested as solid surfaces when powered up. The Imperium was moving in that direction even before the mutiny—our own shield is exactly the same thing on a gross scale. What they discovered was a way to do the same sorts of things on a scale which makes even molycircs big and clumsy, but it was theoretically possible from the beginning. You see? Incremental advances." 
+Jiltanith nodded slowly, and Colin leaned his elbows on the table. 
+"Bearing that in mind, Dahak, what are the chances of recovering useful data from any other computers we encounter?" 
+"Assuming they are of the variety Fleet Captain (Engineering) Chernikov has been discussing and that they have been left unattended without power, nil. Please note, however, that Cordan's command computer was not of that type." 
+"Meaning?" 
+"Meaning, Captain, that it is highly probable Fleet units retained solid data storage for critical systems precisely because energy data storage was susceptible to loss in the event of power failure. If that is indeed the case, any large sublight unit should provide quite considerable amounts of data. Any supralight Fleet combatant would, in all probability, retain a hard-storage backup of its complete data core." 
+"I see." Colin leaned back and rubbed his eyes. 
+"All right. We're five and a half months from Terra, and so far all we've found is one completely destroyed Fleet base and two totally dead planets. If Dahak's wrong about the Fleet retaining hard-storage for its central computers, we can't even hope to find out what happened, much less find help, from any system where this disaster spilled over. 
+"If we turn back right now, we'll reach Sol over a year before the Achuultani scouts, which would at least permit us to help Earth stand them off. By the same token, it would be impossible for us to do that and then return to the Imperium—or, at least, to move any deeper into it—and still get back to Sol before the main incursion arrives. So the big question is do we go on in the hope of finding something, or do we turn back now?" 
+He studied their faces and found only mirrors of his own uncertainty. 
+"I don't think we can give up just yet," he said finally. "We know we can't win without help, and we don't know there isn't still some help available. In all honesty, I'm not very optimistic, but I can't see that we have any choice but to ride it out and pray." 
+Jiltanith and MacMahan nodded slightly. The others were silent, then Chernikov raised his head. 
+"A point, sir." 
+"Yes?" 
+"Assuming Dahak is right that Fleet units are a more likely source of information, perhaps we should concentrate on Fleet bases and ignore civilian systems for the moment." 
+"My own thought exactly," Colin agreed. 
+"Yet 'twould be but prudent to essay a few systems more ere we leave this space entire," Jiltanith mused. "Methinks there doth lie another world scarce fifteen light-years hence. 'Twas not a Fleet base, yet was it not a richly peopled world, Dahak?" 
+"Correct, ma'am," Dahak replied. "The Kano System lies fourteen-point-six-six-one light-years from Defram, very nearly on a direct heading to Birhat. The last census data in my records indicates a system population of some nine-point-eight-three billion." 
+Colin thought. At maximum speed, the trip to Kano would require little more than a week. . . . 
+"All right, 'Tanni," he agreed. "But if we don't find anything there, we're in the same boat. Assuming we don't get answers at Kano, I'm beginning to think we may have to move on to Fleet Central at Birhat itself." 
+He understood the ripple of shock that ran through his officers. Birhat lay almost eight hundred light-years from Sol. If they ventured that far, even Dahak's speed could not possibly return them to Earth before the Achuultani scouts had arrived. 
+Oh, yes, he understood. Quite possibly, Dahak alone could stop the Achuultani scouts, particularly if backed by whatever Earth had produced. But if Colin continued to Birhat, Dahak wouldn't be available to try . . . and the decision was his to make. His alone. 
+"I recognize the risks," he said softly, "but our options are closing in, and time's too short to scurry around from star to star. Unless we find a definite answer at Kano, it may run out on us entirely. If we're going to Birhat at all, we can't afford to deviate or we'll never get back before the main incursion arrives. If we make a straight run for it from Kano, we should have some months to look around Fleet Central and still beat the real incursion home. Even assuming a worst-case scenario, assuming the entire Imperium is like Defram, we may at least find out what happened and where—if anywhere—a functional portion of the Imperium remains. I'm not definitely committing us to Birhat; I'm only saying we may not have another choice." 
+He fell silent, letting them examine his logic for flaws, almost praying they would find some, but instead they nodded one by one. 
+"All right. Dahak, have Sarah set course for Kano immediately. We'll go take a look before we commit to anything else." 
+"Yes, Captain." 
+"I think that's everything," Colin said heavily, and rose. "If any of you need me, I'll be on the bridge." 
+He walked out. This time Dahak did not call the others to attention, as if he sensed his captain's mood . . . but they rose anyway. 
+"Detection at twelve light-minutes," Dahak announced, and Colin's eyes widened with sudden hope. The F5 star called Kano blazed in Dahak's display, the planet Kano-III a penny-bright dot, and they'd been detected. Detected! There was a high-tech presence in the system! 
+But Dahak's next words cut his elation short. 
+"Hostile launch," the computer said calmly. "Multiple hostile launches. Sublight missiles closing at point-seven-eight light-speed." 
+Missiles? 
+"Tactical, Red One!" Colin snapped, and Tamman's acknowledgment flowed back through his neural feed. The tractor web snapped alive, sealing him in his couch, and Dahak's mighty weapons came on line as raucous audio and implant alarms summoned his crew to battle. 
+"No offensive action!" Colin ordered harshly. 
+"Acknowledged." Tamman's toneless voice was that of a man intimately wedded to his computers. Dahak's shield snapped up, anti-missile defenses came alive, and Colin fell silent as others fought his ship. 
+Sarah Meir was part of Tamman's tactical net, and she took Dahak instantly to maximum sublight speed. Evasive action began, and the starfield swooped crazily about them. Crimson dots appeared in the holographic display, flashing towards Dahak like a shoal of sharks, tracking despite his attempts to evade. 
+His jammers filled space and fold-space alike with interference, and blue dots flashed out from the center of the display, each a five-hundred-ton decoy mimicking Dahak's electronic and gravitonic signature. More than half the red dots wavered, swinging to track the decoys or simply lost in the jamming, but at least fifty continued straight for them. 
+They were moving at almost eighty percent of light-speed, but so great was the range they seemed to crawl. And why were they moving sublight at all? Why weren't they hyper missiles? Why—
+"Second salvo launch detected," Dahak announced, and Colin cursed. 
+Active defenses engaged the attackers. Hyper missiles were useless, for they could not home on evading targets, so sublight counter-missiles raced to meet them, blossoming in megaton bursts as proximity fuses activated. Eye-searing flashes pocked the holographic display, and red dots began to die. 
+"They mount quite capable defenses of their own, Captain," Dahak observed, and Colin felt them through his feed. ECM systems lured Dahak's fire wide and on-board maneuvering systems sent the red dots into wild gyrations, and they were faster than the counter-missiles chasing them. 
+"Where are they coming from, Dahak?" 
+"Scanners have detected twenty-four identical structures orbiting Kano-III," Dahak replied as his close-range energy defenses opened fire and killed another dozen missiles. At least twenty were still coming. "I have detected launches from only four of them." 
+Only four? Colin puzzled over that as the last dozen missiles broke past Dahak's active defenses. He found himself gripping his couch's armrests; there was nothing else he could do. 
+Dahak's display blanked in the instant of detonation, shielding his bridge crews' optic nerves from the fury unleashed upon him. Anti-matter warheads, their yields measured in thousands of megatons, gouged at his final defenses, but Dahak was built to face things like that, and plasma clouds blew past him, divided by his shield as by the prow of a ship. Yet mixed with the anti-matter explosions were the true shipkillers of the Imperium: gravitonic warheads. 
+The ancient starship lurched. For all its unimaginable mass, despite the unthinkable power of its drive, it lurched like a broken-masted galleon, and Colin's stomach heaved despite the internal gravity field. His mind refused to contemplate the terrible fury which could produce that effect as gravitonic shield components screamed in protest, but they, too, had been engineered to meet this test. Somehow they held. 
+The display flashed back on, spalled by fading clouds of gas and heat, and a damage signal pulsed in Colin's neural feed. A schematic of Dahak's hull appeared above his console, its frontal hemisphere marred by two wedge-shaped glares of red over a kilometer deep. 
+"Minor damage in quadrants Alpha-One and Three," Dahak reported. "No casualties. Capability not impaired. Second salvo entering interdiction range. Third enemy salvo detected." 
+More counter-missiles flashed out, and Colin reached a decision. 
+"Tactical, take out the actively attacking installations!" 
+"Acknowledged," Tamman said, and the display bloomed with amber sighting circles. Each enclosed a single missile platform, too tiny with distance for even Dahak to display visually, and Colin swallowed. Unlike their attackers, Tamman was using hyper missiles. 
+"Missiles away," Dahak said. And then, almost without pause, "Targets destroyed." 
+Bright, savage pinpricks blossomed in the amber circles, but the two salvos already fired were still coming. Yet Dahak had gained a great deal of data from the first attack, and he was a very fast thinker. Battle Comp was using his predicted target responses well, concentrating his counter-missiles to thwart them, alert now for their speed and the tricks of defensive ECM, killing the incoming missiles with inexorable precision. Energy weapons added their efforts as the range dropped, killing still more. Only three of the second salvo got through, and they were all anti-matter warheads. The final missile of the last salvo died ten light-seconds short of the shield. 
+Colin sagged in his couch. 
+"Dahak? Any more?" he asked hoarsely. 
+"Negative, sir. I detect active targeting systems aboard seven remaining installations, but no additional missiles have been launched." 
+"Any communication attempts?" 
+"Negative, Captain. Nor have they responded to my hails." 
+"Damn." 
+Colin's brain began to work again, but it made no sense. Why refuse all contact and attack on sight? For that matter, how had Dahak gotten so deep in-system before being detected? And if attack they must, why use only a sixth of their defensive bases? The four Tamman had destroyed had certainly gone all out, but if they meant to mount a defense at all, why hold anything back? Especially now, when Dahak had riposted so savagely? 
+"Well," he said finally, very softly, "let's find out what that was all about. Sarah, take us in at half speed. Tamman, hold us on Red One." 
+Acknowledgments flowed back to him, and Dahak started cautiously forward once more at twenty-eight percent of light speed. Colin watched the display for a moment, then made himself lean back. 
+"Dahak, give me an all-hands channel." 
+"All-hands channel open, sir." 
+"All right, people," Colin said to every ear aboard the massive ship, "that was closer than we'd like, but we seem to've come through intact. If anyone's interested in exactly what happened—" he paused and smiled; to his surprise, it felt almost natural "—you can get the details from Dahak later. But for your immediate information, no one's shooting at us just now, so we're going on in for a closer look. They're not talking to us, either, so it doesn't look like they're too friendly, but we'll know more shortly. Hang loose." 
+He started to order Dahak to close the channel, then stopped. 
+"Oh, one more thing. Well done, all of you. You did us proud. Out. 
+"Close channel, Dahak." 
+"Acknowledged, Captain. Channel closed." 
+"Thank you," Colin said softly, and his tone referred to far more than communications channels and the starship's courtesy. "Thank you very much." 

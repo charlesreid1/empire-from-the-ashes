@@ -1,0 +1,139 @@
+"Coming into range of another one," Harriet announced from Plotting as a display sighting ring circled yet another dot. "A big one." 
+Sean felt—and shared—her stress. They were finally close enough for Israel's scanners to detect subplanetary targets, and the tension had been palpable ever since the first deep-space installation was spotted. There'd been more in the last two hours—lots more—and his hopes had soared with the others'. The first one hadn't been much to look at, only a remote scanner array crippled by what appeared to have been a micrometeorite strike, but the ones deeper in-system were much bigger. In fact, they looked downright promising, and he kept reminding himself not to let premature optimism carry him away. 
+"I'm on it, Harry," Sandy reported from Tactical. Her active scanners had less reach than Harriet's passive sensors but offered far better resolution once a target had been pointed out to them. "Coming in now. Comp Cent calls it a Radona-class yard module, Tam." 
+"Radona, Radona," Tamman muttered, running through his Engineering files. "Aha! I thought I remembered! It's a civilian yard, but with the right support base, a Radona class could turn out another Israel in about eight months, Sean. If we get it on-line, we can build us a hypercom no sweat." 
+"That," Sean said quietly, "is the best news I've had in the last twenty-one months. People, it looks like we're going to make it after all." 
+"Yes, I—" Sandy began, then broke off with a gasp. "Sean, that thing's live!" 
+"What?" Sean stared across at her, and she nodded vigorously. 
+"I'm getting standby level power readings from at least two Khilark Gamma fusion plants—maybe three." 
+"That's ridiculous," Sean muttered. He twisted back around to glare at the bland light floating in Harriet's sighting ring. "She'd need hydrogen tankers, maintenance services, a resource base . . . She can't be live!" 
+"Try telling that to my scanners! I've definitely got live fusion plants, and if her power's up, we won't even have to activate her!" 
+"But I still don't see how—" 
+"Sean," Harriet cut him off, "I'm getting more installations. Look." 
+Scores of sighting rings blossomed as her instruments came in range of the new targets, and Sean blinked. 
+"Sandy?" 
+"I'm working them, Sean." Sandy's voice was absent as she communed with her systems. "Okay, these—" three of Harriet's amber rings turned green "—look like your 'resource base.' They're processing modules, but they're not Battle Fleet designs, either. They might be modified civil facilities." She paused, then continued flatly. "And they're live, too." 
+"This," Sean said to no one in particular, "is getting ridiculous. Not that I'm ungrateful, but—" He shook himself. "What about the others?" 
+"Can't tell yet. I'm getting some very faint power leakage from them, but not enough for resolution at this range." She closed her eyes and frowned in concentration. "If they're live, it doesn't look like they've got much on-board generation capacity. Either that, or . . ." Her voice trailed off. 
+"Or what?" 
+"Those might be stasis emissions." She sounded unhappy at suggesting that, and Sean grunted. No stasis field could maintain itself from internal power, and there wasn't enough available from the powered-down plants of the other facilities to sustain that many fields with broadcast power. 
+"Humph. Goose us back up to point-five cee and take us in, Brashan." 
+"Coming up to point-five cee, aye," Brashan replied from Maneuvering, and Sean frowned even more thoughtfully. Something about those installations bothered him. They floated in distant orbit around the third planet, not in a ring but in a wide-spaced sphere. There were too many of them—and they were much too small—to be more yard modules, but each was almost a third of Israel's size, so what the devil were they? 
+"Sean!" Harriet's exclamation was sharp. "I've got a new power source—a monster—and it's on the planet!" 
+His head whipped back up as still another sighting ring appeared in the display and the new emission source crept into sight over the planetary horizon. Harry was right; it was huge. But it was also . . . strange, and he frowned as its light code flickered uncertainly. 
+"Can you localize it?" 
+"I'm trying. It's— Sean, my scanners say that thing's moving. It's almost like . . . like some weird ECM, but I've never seen anything like it." 
+Sean frowned. That single massive power source was all alone down there, and that made it the most maddening puzzle yet. Obviously the population and tech base which had produced the system installations hadn't survived, or they would have been challenged by now. Besides, if the planet had fusion power, there should be dozens of planetary facilities down there, not just one. But without people, how had even one power plant survived the millennia? And what did Harry mean by "moving"? He plugged into her systems and watched it with her, and damned if she wasn't right. It was like some sort of ECM, as if something were trying to prevent them from locking in its coordinates. 
+"Can you crack whatever it is, Harry?" 
+"I think so. It's a weird effect, but it looks like . . . Oh, that's sneaky!" Her tone took on a mix of admiration and excitement. "That source isn't as big as we thought, Sean. It is big, but there's at least a dozen—probably more like two or three dozen—false emitters down there, and they're jumping back and forth between them. Their generators aren't moving, they're just reshaping the main emission source. I don't know why, but now that I know what they're doing it's only a matter of ti—" 
+"Status change." Sandy's voice was flat with tension. "The satellite power readings are going up like missiles. They're coming on-line, Sean!" 
+His eyes darted back to the satellites. Those had been stasis fields; now they were gone, and whole clusters of new sources were coming up while they watched. Sean chewed his lip, wondering what the hell was going on. But until he knew—
+"Bring us about, Brashan. Let's not get in too deep." 
+"Coming onto reciprocal course, aye," Brashan confirmed, and Sean watched the changing tactical symbols in the display as Israel came about. 
+"I've got a bad feeling about this," he muttered. 
+* * *
+"First phase activation complete. All platforms nominal." 
+Vroxhan listened to the Voice's ancient, musical words as a net of emeralds blazed against the night sky. God's Shields glowed with the color of life, yet he'd never seen so many of them at once, not even at the once-a-decade celebration of High Fire Test. Truly this was the time of Trial, and he licked his lips as he proceeded to the second verse of the Canticle. 
+"Activate tracking systems," he intoned sonorously. 
+* * *
+"Status change!" This time Sandy almost screamed the words. "Target system activation! Those things are weapons platforms!" 
+"Settle down, Sandy!" Sean snapped. "Brashan, take us to point-seven! Evasion pattern Alpha Romeo!" 
+"Alpha Romeo, aye," Brashan replied with reassuring Narhani calm. 
+"Target acquisition," the Voice announced. Its singing power filled the Sanctum, and the golden ring about the demons' sigil turned blood-red. Tiny symbols appeared within it—some steady and unwinking, others changing with eye-bewildering flickers. Vroxhan had never seen anything like that; none of the symbols which appeared during Plot Test and Fire Test ever changed, and mingled terror and exaltation filled him as he chanted the third verse. 
+"Initiate weapon release cycle." 
+* * *
+Israel leapt to full speed, and the power of her drive quivered in bone and sinew as Brashan threw her into the evasion pattern. A corner of Sean's thoughts stole a moment to be thankful for all the drills they'd run and another to curse how undermanned they were, but it was only a tiny corner. The rest of his mind had suddenly gone cold, humming with a strange, deep note unlike anything he'd ever experienced in a training exercise, and his thoughts came like a dance of lightning, automatic, almost instinctive. 
+"Tactical, get the shields up and initiate ECM! Download decoys for launch on my signal but do not engage." 
+"Shields—up!" Sandy snapped back, her earlier edge of panic displaced by trained reactions. "ECM—active. Decoys prepped and downloaded." 
+"Acknowledged. Have you localized that power source, Harry?" 
+"Negative!" 
+Sean felt himself tightening inwardly as his queerly icy brain raced. Every instinct screamed to open fire to preempt whatever those weapons might do, but even if his assumption that the planetary power source was the command center was right, he couldn't hit it if Harry couldn't localize it. That only left the platforms themselves, and they were such small targets—and there were so many of them—that going after them would be a losing proposition. Perhaps more importantly, they hadn't fired yet. If he initiated hostilities, they most certainly would, and although Israel was beyond energy weapon range, maximum range for the Fourth Empire's hyper missiles against a target her size was thirty-eight light-minutes. They were ten light-minutes inside that. At maximum speed, they needed fourteen minutes to clear the planet's missile envelope, and every second the platforms spent thinking about shooting was one priceless second in which they weren't shooting. 
+* * *
+"Target evading." 
+Vroxhan's heart faltered as the Voice departed from the Canticle of Deliverance. It had never said those words before, and the symbols inside the bloody circle danced madly. The demon light pulsed and capered, and his faith wavered. But he felt ripples of panic flaring through the bishops and upper-priests. He had to do something, and he forced his merely mortal voice to remain firm as he intoned the fourth verse of the Canticle. 
+"Initiate firing sequence!" he sang, and his soul filled with relief as the Voice returned the proper response. 
+"Initiating." 
+* * *
+"Launch activation! Multiple launch activations!" 
+Sean paled at Sandy's cry. The platforms had brought their support systems on-line; now their hyper launchers were cycling. They'd need several seconds to wind up to full launch status, but there were hundreds of them! 
+He tasted blood. This was a survey ship's worst nightmare: an intact, active quarantine system. An Asgerd-class planetoid would have hesitated to engage this kind of firepower, and he had exactly one parasite battleship. 
+"Launch decoys!" 
+"Launching, aye." A brief heartbeat. "First decoy salvo away. Second salvo prepping." 
+Blue dots speckled the display with false images, each a duplicate of Israel's own emissions signature as it streaked away from her. 
+"Activate missile battery. Designate launch platforms as primary targets but do not engage." 
+"Missile battery active," Sandy said flatly. 
+* * *
+"Hostile decoys deployed," the Voice announced sweetly. 
+Vroxhan clutched at the altar, and a terrified human voice cried out behind him, for the high priest's portion of the Canticle was done! There was no more Canticle! But the Voice was continuing. 
+"Request Tracking refinement and update," it said, and the High Priest sank to his knees while the demon light spawned again and again. Dozens of demons blazed in the stars, and he didn't know what the Voice wanted of him! 
+"Initiate firing sequence!" he repeated desperately, and his trained voice was broken-edged and brittle. 
+"Probability of kill will be degraded without Tracking refinement and update," the Voice replied emotionlessly. 
+"Initiate firing sequence!" Vroxhan screamed. The Voice said nothing for a tiny, terrible eternity, and then—
+"Initiating." 
+* * *
+"Hostile launch! I say again, hostile launch!" 
+A deathly silence followed Sandy's flat announcement. The Fourth Empire's hyper missiles traveled at four thousand times the speed of light. It would take them almost seven seconds to cross the light-minutes to the battleship, but there was no such thing as an active defense against a hyper missile, for no one had yet figured out a way to shoot at something in hyper. They could only take it . . . and be glad the range was so long. At seventy percent of light-speed, Israel would have moved almost one-and-a-half million kilometers between the time those missiles launched and the time they arrived. But that was why defensive bases had prediction and tracking computers. 
+Israel had never been intended to face such firepower single-handed, but her defenses had been redesigned and refined by Dahak and BuShips to incorporate features gleaned from the Achuultani and new ideas all their own. Her shields covered more hyper bands, her inner shield was far closer to her hull than the Fourth Empire's technology had allowed, and she had an outer shield, which no earlier generation of Imperial ship had ever boasted. 
+It was as well she did. 
+Only a fraction of those missiles were on target, but Israel bucked like a mad thing, and Sean almost ripped the arms from his couch as warheads smashed at her and she heaved about him. Damn it! Damn it! He'd forgotten to activate his tractor net! The gravity wells of a dozen stars sought to splinter his ship's insignificant mass, and shield generators screamed in her belly. 
+* * *
+The familiar musical note of Fire Test rang in his ears, and Vroxhan stared up from his knees, eyes desperate, waiting for the demon lights to vanish, praying that they would. He didn't know how long he would have to wait; he never did, even during Fire Test, for no one had ever taught him to read the range notations within the targeting circles. 
+Then, suddenly, all but one of the demon lights did vanish. A great sigh went up from the massed bishops, and Vroxhan joined it. The demons might have spawned, but God had smitten all but one of them! Yet that one remained, and that, too, had never happened during Fire Test. 
+His terrible fear ebbed just a bit, but only a bit, for yet again the Voice spoke words no high priest had ever heard. 
+"Decoys destroyed. Engagement proceeding." 
+* * *
+A ship of the Fourth Empire would have died. Five of those mighty missiles had popped the hyper bands covered by Israel's outer shield, but they erupted outside her inner shield . . . and it held. Somehow, it held. 
+"Jesus!" Sean shook his head and activated his couch tractor net as soon as the universe stopped heaving. They couldn't take many more like that! 
+"Shift to evasion pattern Alpha Mike. Launch fresh decoy salvo." 
+This time there were no verbal acknowledgments, but they flowed back to him through his feed. He felt his friends' fear, but they were doing their jobs. And they were still alive. He didn't understand that. With this much fire coming at them, they should be dead. But there wasn't time to wonder why they weren't—and no longer any reason not to fight back. 
+"Engage the enemy!" he snapped. 
+The first salvo spat from Israel's launchers, and it was odd, but his own fear had disappeared. 
+* * *
+"Incoming fire," the Voice said. "Request defense mode." 
+Vroxhan covered his face, trying to understand while faith, terror, and confusion warred within him. He knew what "request" meant, but he had no idea what a "defense mode" was. 
+"Urgent," the Voice said. "Defense mode input required." 
+* * *
+Israel twisted in agony as the second salvo erupted into normal space about her, and a damage warning snarled. One of those missiles had gotten too close, and armor that would have sneered at a nuclear warhead tore like tissue under the fraction of power that leaked through the inner shield. 
+But Sean had more time to watch this attack's pattern, and it told him something. Whatever was on the other end of those missiles was fighting dumb, spreading its fire evenly between Israel and her decoys, and that was crazy. Any defensive system ought to be able to refine its data enough to eliminate at least a few false images. 
+He felt Tamman activate his damage control systems, yet a quick check told him nothing vital had gone, and he looked back at the display just as Sandy's first salvo went home. 
+* * *
+Sweat stung Vroxhan's eyes as a dozen of God's emerald Shields vanished from the stars. The demons! The demons had done that! 
+"Urgent," the Voice repeated. "Defense mode input required." 
+The high priest racked his brain. Thought had never been required during any of the high ceremonies, only the liturgy. His mind ran desperately over every ritual, seeking the words "defense mode," but he couldn't think of any canticle that used them. Wait! He couldn't think of any that used both words, but the Canticle of Maintenance Test used "mode"! 
+He trembled, wondering if he dared use another canticle's words. What if they were the wrong words? What if they turned God's wrath against him? 
+* * *
+Sean bit down on a yell of triumph. The ground source might be hiding, but the weapon platforms were stark naked! Not even a shield! 
+"Hit them, Sandy!" he snapped, and Israel's next salvo went out even as the third hostile salvo came in. 
+* * *
+Vroxhan groaned as another dozen emeralds vanished. That was almost a tenth of them all, and the Demons still lived! If they destroyed all of God's Shields, nothing would stand between them and the world's death! 
+"Warning." The Voice was as beautiful as ever, yet it seemed to shriek in his brain. "Offensive capability reduced nine-point-six percent. Defense mode input required." 
+Blood ran into Vroxhan's beard as his teeth broke his lip, but even as he watched the demons were spawning yet again. He had no choice, and he spoke the words from the Canticle of Maintenance Test. 
+"Cycle autonomous mode selection!" he cried. 
+He felt the others stare at him in horror, but he made himself stand upright, awaiting the stroke of God's wrath. Silence stretched to the breaking point, and then—
+"Autonomous defense mode selection engaged," the Voice said. 
+* * *
+"Shit!" 
+Sean smashed a clenched fist against the arm of his couch. They'd gotten in a third salvo, but the quarantine system had finally noticed they were killing its weapons. Shields popped into existence around the scores of surviving orbital bases, and decoys of their own blinked into life. They were only Fourth Empire technology, nowhere near as good as the improved systems Dahak and BuShips had provided Israel, but they were good enough. It would take every missile they could throw to take out even one of them now, yet they had no other target. They still hadn't localized the ground base controlling them and the range was now too great to try. 
+He started to order Sandy to reprioritize her fire, massing it on single targets, but she was already doing it. 
+The battleship writhed again, yet the ferocity was less and he felt a surge of hope. Sandy had nailed almost forty bases; maybe she'd thinned them enough they could survive yet! 
+They'd been engaged for four minutes, and they'd started running a full minute before the enemy opened fire. The range was up to over thirty-one light-minutes, and that would help, too. If they got to at least thirty-five and managed to break lock, they might be able to go into stealth and—
+Israel heaved yet again, and another damage signal snarled. Crap! That one had taken out two of Sandy's launchers. 
+* * *
+Vroxhan stared at the stars, and hope rose within him. Only one of the Shields had vanished that time. Perhaps none of them might have perished if he'd known what God and the Voice truly demanded, but at least he was still alive and the rate of destruction had slowed. Did that mean God smiled upon him after all? The Writ said man could but do his best—had God granted him the mercy of recognizing his best when he gave it? 
+* * *
+Israel sped outward, bobbing and weaving as Sean, Brashan, and the maneuvering computers squirmed through every evasion they could produce, and Harriet abandoned Plotting and plugged into the damage control sub-net to help Tamman fight the battleship's damage. Two more near-misses had savaged her, and her speed was down to .6 c from the loss of a drive node, but the incoming fire was less and less accurate. Sandy had picked off thirteen more launch stations, ripping huge holes in the original defensive net, but Sean could see the surviving weapon platforms redeploying, with more coming around from the far side of the planet. Still, Sandy's fire might just have whittled them down enough to make the difference in the face of Israel's ECM. 
+Even as he thought that, he knew he didn't really believe it. 
+He rechecked the range. Thirty-four light-minutes. Another seven minutes to the edge of the missile envelope at their reduced speed. Could they last that long? 
+Another salvo shook the ship. And another. Another. A fresh damage signal burned in his feed. They weren't going to make it out of range before something got through, but they were coming up on thirty-five light-minutes, and each salvo was still spreading its fire to engage their decoys. They hadn't managed to break lock, but if the bad guys' targeting was so bad it couldn't differentiate them from the decoys, they might be able to get into—
+* * *
+Vroxhan watched the demons spawn yet again. They must have an inexhaustible store of eggs, but God smote every one they hatched. A fresh cloud of crimson dots profaned the stars—and then they vanished. 
+They all vanished, and the ring of God's wrath was empty. Empty! 
+Silence hovered about him and his pulse thundered as the assembled priests held their breath. 
+"Target destroyed," the Voice said. "Engagement terminated. Repair and replacement procedures initiated. Combat systems standing down." 
+* * *
+"They've lost lock," Sandy reported in a soft, shaky voice as Israel vanished into stealth mode, and Sean MacIntyre exhaled a huge breath. 
+He was soaked in sweat, but they were alive. They shouldn't have been. No ship their size could survive that much firepower, however clumsily applied. Yet Israel had. Somehow. 
+His hands began to tremble. Their stealth mode ECM was better than anything the Fourth Empire had ever had, but to make it work they'd had to cut off all detectable emissions. Which meant Sandy had been forced to cut her own active sensors and shut down both her false-imaging ECM and the outer shield, for it extended well beyond the stealth field. He'd hoped synchronizing with the decoys' destruction would convince the bad guys they'd gotten Israel, as well, but if their tracking systems hadn't lost lock, they would have been a sitting duck. They wouldn't even have been covered by decoys against the next salvo. 
+His hands' shakiness spread up his arms as he truly realized what a terrible chance he'd just taken, and not with his own life alone. It had worked, but he hadn't even thought about it. Not really. He'd reacted on gut instinct, and the others had obeyed him, trusting him to get it right. 
+He made himself breathe slowly and deeply, using his implants to dampen his runaway adrenaline levels, and thought about what he'd done. He made himself stand back and look at the logic of it, and now that he had time to think, maybe it hadn't been such a bad idea. It had worked, hadn't it? But, Jesus, the risk he'd taken! 
+Maybe, he told himself silently, Aunt Adrienne's homilies on overly audacious tactics contained a kernel of truth after all. 
