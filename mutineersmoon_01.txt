@@ -1,0 +1,51 @@
+The huge command deck was as calm, as peacefully dim, as ever, silent but for the small background sounds of environmental recordings. The bulkheads were invisible beyond the projection of star-specked space and the blue-white shape of a life-bearing world. It was exactly as it ought to be, exactly as it always had been-tranquil, well-ordered, as divorced from chaos as any setting could possibly be.
+But Captain Druaga's face was grim as he stood beside his command chair and data flowed through his neural feeds. He felt the whickering lightning of energy weapons like heated irons, Engineering no longer responded-not surprisingly-and he'd lost both Bio-Control One and Three. The hangar decks belonged to no one; he'd sealed them against the mutineers, but Anu's butchers had blocked the transit shafts with grab fields covered by heavy weapons. He still held Fire Control and most of the external systems, but Communications had been the mutineers' primary target. The first explosion had taken it out, and even an Utu-class ship mounted only a single hypercom. He could neither move the ship nor report what had happened, and his loyalists were losing.
+Druaga deliberately relaxed his jaw before his teeth could grind together. In the seven thousand years since the Fourth Imperium crawled back into space from the last surviving world of the Third, there had never been a mutiny aboard a capital ship of Battle Fleet. At best, he would go down in history as the captain whose crew had turned against him and been savagely suppressed. At worst, he would not go down in history at all.
+The status report ended, and he sighed and shook himself.
+The mutineers were hugely outnumbered, but they had the priceless advantage of surprise, and Anu had planned with care. Druaga snorted; no doubt the Academy teachers would have been proud of his tactics. But at least-and thank the Maker for it!-he was only the chief engineer, not a bridge officer. There were command codes of which he had no knowledge.
+"Dahak," Druaga said.
+"Yes, Captain?" The calm, mellow voice came from everywhere and nowhere, filling the command deck.
+"How long before the mutineers reach Command One?"
+"Three standard hours, Captain, plus or minus fifteen percent."
+"They can't be stopped?"
+"Negative, Captain. They control all approaches to Command One and they are pushing back loyal personnel at almost all points of contact."
+Of course they were, Druaga thought bitterly. They had combat armor and heavy weapons; the vast majority of his loyalists did not.
+He looked around the deserted command deck once more. Gunnery was unmanned, and Plotting, Engineering, Battle Comp, Astrogation. . . . When the alarms went, only he had managed to reach his post before the mutineers cut power to the transit shafts. Just him. And to get here he'd had to kill two subverted members of his own staff when they pounced on him like assassins.
+"All right, Dahak," he told the all-surrounding voice grimly, "if all we still hold is Bio Two and the weapon systems, we'll use them. Cut Bio One and Three out of the circuit."
+"Executed," the voice said instantly. "But it will take the mutineers no more than an hour to put them back on line under manual."
+"Granted. But it's long enough. Go to Condition Red Two, Internal."
+There was a momentary pause, and Druaga suppressed a bitter smile.
+"You have no suit, Captain," the voice said unemotionally. "If you set Condition Red Two, you will die."
+"I know." Druaga wished he was as calm as he sounded, but he knew Dahak's bio read-outs gave him the lie. Yet it was the only chance he-or, rather, the Imperium-had.
+"You will give a ten-minute warning count," he continued, sitting down in his command chair. "That should give everyone time to reach a lifeboat. Once everyone's evacuated, our external weapons will become effective. You will carry out immediate decon, but you will allow only loyal personnel to re-enter until you receive orders to the contrary from . . . your new captain. Any mutinous personnel who approach within five thousand kilometers before loyal officers have reasserted control will be destroyed in space."
+"Understood." Druaga could have sworn the voice spoke more softly. "Comp Cent core programs require authentication of this order, however."
+"Alpha-Eight-Sigma-Niner-Niner-Seven-Delta-Four-
+Alpha," he said flatly.
+"Authentication code acknowledged and accepted," the voice responded. "Please specify time for implementation."
+"Immediately," Druaga said, and wondered if he spoke so quickly to avoid losing his nerve.
+"Acknowledged. Do you wish to listen to the ten-count, Captain?"
+"No, Dahak," Druaga said very softly.
+"Understood," the voice replied, and Druaga closed his eyes.
+It was a draconian solution . . . if it could be called a "solution" at all. Red Two, Internal, was the next-to-final defense against hostile incursion. It opened every ventilation trunk-something which could be done only on the express, authenticated order of the ship's commander-to flood the entire volume of the stupendous starship with chemical and radioactive agents. By its very nature, Red Two exempted no compartment . . . including this one. The ship would become uninhabitable, a literal death trap, and only the central computer, which he controlled, could decontaminate.
+The system had never been intended for this contingency, but it would work. Mutineers and loyalists alike would be forced to flee, and no lifeboat ever built could stand up to Dahak's weaponry. Of course, Druaga wouldn't be alive to see the end, but at least his command would be held for the Imperium.
+And if Red Two failed, there was always Red One.
+"Dahak," he said suddenly, never opening his eyes.
+"Yes, Captain?"
+"Category One order," Druaga said formally.
+"Recording," the voice said.
+"I, Senior Fleet Captain Druaga, commanding officer Imperial Fleet Vessel Dahak, Hull Number One-Seven-Two-Two-Nine-One," Druaga said even more formally, "having determined to my satisfaction that a Class One Threat to the Imperium exists aboard my vessel, do now issue, pursuant to Fleet Regulation Seven-One, Section One-Nine-Three, Subsection Seven-One, a Category One order to Dahak Computer Central. Authentication code Alpha-Eight-Delta-Sigma-Niner-Niner-Seven-Delta-Four-Omega."
+"Authentication code acknowledged and accepted," the voice said coolly. "Standing by to accept Category One orders. Please specify."
+"Primary mission of this unit now becomes suppression of mutinous personnel in accordance with instructions already issued," Druaga said crisply. "If previously specified measures fail to restore control to loyal personnel, said mutinous elements will be destroyed by any practicable means, including, if necessary, the setting of Condition Red One, Internal, and total destruction of this vessel. These orders carry Priority Alpha."
+"Acknowledged," the voice said, and Druaga let his head rest upon the cushioned back of his chair. It was done. Even if Anu somehow managed to reach Command One, he could not abort the order Dahak had just acknowledged.
+The captain relaxed. At least, he thought, it should be fairly painless.
+". . . ine minutes and counting," the computer voice said, and Fleet Captain (E) Anu, Chief Engineer of the ship-of-the-line Dahak cursed. Damn Druaga! He hadn't expected the captain to reach his bridge alive, much less counted on this. Druaga had always seemed such an unimaginative, rote-bound, dutiful automaton.
+"What shall we do, Anu?"
+Commander Inanna's eyes were anxious through her armor's visor, and he did not blame her.
+"Fall back to Bay Ninety-One," he grated furiously.
+"But that's-"
+"I know. I know! We'll just have to use them ourselves. Now get our people moving, Commander!"
+"Yes, sir," Commander Inanna said, and Anu threw himself into the central transit shaft. The shaft walls screamed past him, though he felt no subjective sense of motion, and his lips drew back in an ugly snarl. His first attempt had failed, but he had a trick or two of his own. Tricks even Druaga didn't know about, Breaker take him!
+Copper minnows exploded away from Dahak. Lifeboats crowded with loyal crew members fanned out over the glaciated surface of the alien planet, seeking refuge, and scattered among them were other, larger shapes. Still only motes compared to the ship itself, their masses were measured in thousands upon thousands of tons, and they plummeted together, outspeeding the smaller lifeboats. Anu had no intention of remaining in space where Druaga-assuming he was still alive-might recognize that he and his followers had not abandoned ship in lifeboats and use Dahak's weapons to pick off his sublight parasites as easily as a child swatting flies.
+The engineer sat in the command chair of the parasite Osir, watching the gargantuan bulk of the camouflaged mother ship dwindle with distance, and his smile was ugly. He needed that ship to claim his destiny, but he could still have it. Once the programs he'd buried in the engineering computers did their job, every power room aboard Dahak would be so much rubble. Emergency power would keep Comp Cent going for a time, but when it faded, Comp Cent would die.
+And with its death, Dahak's hulk would be his.
+"Entering atmosphere, sir," Commander Inanna said from the first officer's couch.
